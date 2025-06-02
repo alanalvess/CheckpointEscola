@@ -1,3 +1,7 @@
+package models;
+
+import enums.Formacao;
+
 public class Professor extends Usuario{
 
     private Double valorHora;

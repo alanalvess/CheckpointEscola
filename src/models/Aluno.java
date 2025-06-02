@@ -1,3 +1,5 @@
+package models;
+
 public class Aluno extends Usuario{
 
     private int matricula;

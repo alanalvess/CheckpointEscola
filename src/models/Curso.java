@@ -1,3 +1,7 @@
+package models;
+
+import enums.Turno;
+
 public abstract class Curso {
 
     private String nomeCurso;

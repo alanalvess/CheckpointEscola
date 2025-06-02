@@ -1,3 +1,5 @@
+package models;
+
 public class Endereco {
 
     private String Logradouro;
